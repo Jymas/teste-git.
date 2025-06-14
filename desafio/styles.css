@@ -21,7 +21,7 @@ margin-left: 42px;
     line-height: 21px;
     text-align: center;
     letter-spacing: 0.875px;
-    margin-right: 32px;
+    margin-right: 0.32px;
 
     color: black
        }
@@ -34,5 +34,11 @@ border:1px solid #4cb538 ;
 border-radius: 6px;
 width: 124px;
 height: 51px;
+
+ }
+ .button-learn-more {
+
+    background-color: blue;
+
 
  }
